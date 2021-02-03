@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Ayushjain2205/ayushjain2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on MERN Stack
+- 🌱 I’m currently learning NextJs
+- 👯 I’m looking to collaborate on ReactJs
+- 🤔 I’m looking for help with Redux
+- 💬 Ask me about Frontend Development
+- 📫 How to reach me: [DM me on Twitter](https://twitter.com/ayushj22)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My chrome dino game highscore is 2241!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayushjain2205&show_icons=true&theme=tokyonight&line_height=52" />
