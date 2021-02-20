@@ -7,7 +7,7 @@
 - 💬 Ask me about Frontend Development
 - 📫 How to reach me: [DM me on Twitter](https://twitter.com/ayushj22)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My chrome dino game highscore is 2241!
+- ⚡ Fun fact: My chrome dino game highscore is 2321!
 
 
 <p align="center">
