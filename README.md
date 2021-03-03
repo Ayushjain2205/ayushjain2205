@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on MERN Stack
-- 🌱 I’m currently learning NextJs
+- 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on ReactJs
 - 🤔 I’m looking for help with Redux
 - 💬 Ask me about Frontend Development
