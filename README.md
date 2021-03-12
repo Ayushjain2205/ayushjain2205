@@ -9,6 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My chrome dino game highscore is 2321!
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ayushjain2205)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayushjain2205&show_icons=true&theme=tokyonight&line_height=52" />
