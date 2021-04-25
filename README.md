@@ -19,7 +19,6 @@
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushjain2205)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayushjain2205)
 
