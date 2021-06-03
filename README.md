@@ -16,12 +16,17 @@
 
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> <img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushjain2205)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayushjain2205)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushjain2205)
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushjain2205&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Ayush Jain's Stats">
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushjain2205&show_icons=true&theme=tokyonight&line_height=52" />
-</p>
+  <a target="_blank" href="https://www.linkedin.com/in/ayush-jain-69b68a1b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://twitter.com/ayushj22"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://ayushjain2205.github.io/ayush-website/"><img src="https://img.shields.io/badge/PortfolioWebsite-green?style=for-the-badge&logo=PortfolioWebsite" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p
+
+
+
 
