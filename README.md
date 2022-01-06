@@ -29,23 +29,35 @@
 
 ### Hackathon winning projects
 
-
   <details>
     <summary>🏆 <b> Orden </b> - NFT Marketplace</summary>
+  <br>
     NFTs are a revolution in the digital creative space and it's only going to be on an upward trajectory. While makers and creators like this need to make this space look exciting and accessible to anyone and everyone. This is where ORDEN comes in. An NFT Platform for creators to create, mint, and sell their skills. <br> <br>
+    <a target="_blank" href="https://youtu.be/C_6aPlvC13c"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://devpost.com/software/orden"><img src="https://badges.devpost-shields.com/get-badge?name=ORDEN&id=orden&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
  <img alt="Orden" width="650" height="350" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/614/568/datas/gallery.jpg">
   </details>
 
  <details>
     <summary>🏆 <b> Cryft </b> - Loyalty Programs for web3</summary>
+  <br>
    Cryft aims to change the way loyalty and referral programs work for the better, for both, brands and users. Cryft is a platform-agnostic app made using React Native. <br> <br>
+   <a target="_blank" href="https://youtu.be/WnDktjKOUbU"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://devpost.com/software/cryft"><img src="https://badges.devpost-shields.com/get-badge?name=CRYFT&id=cryft&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+   
  <img alt="Orden" width="650" height="350" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/755/256/datas/gallery.jpg">
   </details>
   
    <details>
     <summary>🏆 <b> Apex </b> -  Augmented NFT experience </summary>
+  <br>
    Pokemon Go for NFTS. Find the rarest Nfts like you find the rarest Pokemons. Gateway into the metaverse becomes easy and efficient. React native for developing a cross-platform mobile app. ViroReact to render 3D objects on the camera view.
  <br> <br>
+ <a target="_blank" href="https://youtu.be/mkR6J0rYQjM"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://devfolio.co/submissions/apex-nft-experience-in-ar-9236"><img src="https://badges.devpost-shields.com/get-badge?name=APEX&id=apex&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
  <img alt="Orden" width="450" height="850" src="https://assets.devfolio.co/hackathons/1753c2d8947344019fd07fd5259b9fd1/projects/99127df9feec46599dc876cb425c5ce8/17147c9f-8d1c-4b32-bfd2-c28093dfcf2c.png">
   </details>
 
@@ -60,6 +72,9 @@
   <a target="_blank" href="https://twitter.com/iyushjain"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://instagram.com/ayushjain.io"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://ayushjain2205.github.io/ayush-website/"><img src="https://img.shields.io/badge/PortfolioWebsite-green?style=for-the-badge&logo=PortfolioWebsite" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://dev.to/iyushjain"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://hashnode.com/@iyushjain"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://iyushjain.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p
 
 
