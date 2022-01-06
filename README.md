@@ -1,4 +1,4 @@
-[![ezgif.com-gif-maker-1b93ce4125892d568.gif](https://s10.gifyu.com/images/ezgif.com-gif-maker-1b93ce4125892d568.gif)](https://gifyu.com/image/SSA0P)
+![ezgif.com-gif-maker-1b93ce4125892d568.gif](https://s10.gifyu.com/images/ezgif.com-gif-maker-1b93ce4125892d568.gif)
 
 ### Hi there 👋
 
