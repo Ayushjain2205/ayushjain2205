@@ -1,4 +1,4 @@
-<img src="https://s10.gifyu.com/images/ezgif.com-gif-maker-1b93ce4125892d568.gif" alt="ezgif.com-gif-maker-1b93ce4125892d568.gif" border="0" />
+<img width="100%" src="https://media.giphy.com/media/SIk83yJDuyw9KPEENh/giphy.gif">
 
 ### Hi there 👋
 
