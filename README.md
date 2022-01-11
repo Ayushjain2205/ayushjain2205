@@ -1,5 +1,15 @@
 <img width="100%" src="https://media.giphy.com/media/SIk83yJDuyw9KPEENh/giphy.gif">
 
+<p align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/ayush-jain-69b68a1b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://twitter.com/iyushjain"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://instagram.com/ayushjain.io"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://ayushjain2205.github.io/ayush-website/"><img src="https://img.shields.io/badge/PortfolioWebsite-green?style=for-the-badge&logo=PortfolioWebsite" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://dev.to/iyushjain"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://hashnode.com/@iyushjain"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://iyushjain.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+  
 ### Hi there 👋
 
 - 🔭 I’m currently working on Near Blockchain
@@ -64,17 +74,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayushjain2205)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushjain2205)
+  
 <img src="https://github-readme-stats.vercel.app/api?username=Ayushjain2205&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Ayush Jain's Stats">
 
 
-<p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/ayush-jain-69b68a1b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://twitter.com/iyushjain"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://instagram.com/ayushjain.io"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- <a href="https://ayushjain2205.github.io/ayush-website/"><img src="https://img.shields.io/badge/PortfolioWebsite-green?style=for-the-badge&logo=PortfolioWebsite" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://dev.to/iyushjain"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://hashnode.com/@iyushjain"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://iyushjain.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p
+
 
 
