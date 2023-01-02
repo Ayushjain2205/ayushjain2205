@@ -12,12 +12,12 @@
   
 ### Hi there 👋
 
-- 🔭 I’m currently working on Near Blockchain
-- 🌱 I’m currently learning Rust
+- 🔭 I’m currently working on Solana Blockchain
+- 🌱 I’m currently learning AR development
 - 👯 I’m looking to collaborate on Web3 projects
-- 🤔 I’m looking for help with Typescript
+- 🤔 I’m looking for help with Unity
 - 💬 Ask me about Blockchain Frontend Development
-- 📫 How to reach me: [DM me on Twitter](https://twitter.com/ayushj22)
+- 📫 How to reach me: [DM me on Twitter](https://twitter.com/iyushjain)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My chrome dino game highscore is 2533!
 
@@ -75,9 +75,4 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushjain2205)
   
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushjain2205&show_icons=true&theme=dark&count_private=true&include_all_commits=true&custom_title=Ayush Jain's Stats">
-
-
-
-
 
