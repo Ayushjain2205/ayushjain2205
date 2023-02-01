@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on WebAR
 - 🌱 I’m currently learning AR development
 - 👯 I’m looking to collaborate on Web3 projects
-- 🤔 I’m looking for help with Unity
+- 🤔 I’m looking for help with Unity/C#
 - 💬 Ask me about Blockchain Frontend Development
 - 📫 How to reach me: [DM me on Twitter](https://twitter.com/iyushjain)
 - 😄 Pronouns: He/Him
