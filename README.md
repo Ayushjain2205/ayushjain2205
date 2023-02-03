@@ -71,6 +71,16 @@
  <img alt="Orden" width="450" height="850" src="https://assets.devfolio.co/hackathons/1753c2d8947344019fd07fd5259b9fd1/projects/99127df9feec46599dc876cb425c5ce8/17147c9f-8d1c-4b32-bfd2-c28093dfcf2c.png">
   </details>
 
+ <details>
+    <summary>🏆 <b> NFTickets </b> </summary>
+  <br>
+   A dapp where tickets are sold as NFTs. They are exclusive. Any and all types of events can be listed. Users earn royalties through referrals.
+ <br> <br>
+ <a target="_blank" href="[https://youtu.be/mkR6J0rYQjM](https://showcase.ethglobal.com/roadtoweb3/nftickets)"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="[https://devfolio.co/submissions/apex-nft-experience-in-ar-9236](https://showcase.ethglobal.com/roadtoweb3/nftickets)"><img src="https://badges.devpost-shields.com/get-badge?name=APEX&id=apex&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+  </details>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayushjain2205)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushjain2205)
