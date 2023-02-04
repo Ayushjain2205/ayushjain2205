@@ -12,7 +12,7 @@
   
 ### Hi there 👋
 
-- 🔭 I’m currently working on WebAR
+- 🔭 I’m currently working on WebXR
 - 🌱 I’m currently learning AR development
 - 👯 I’m looking to collaborate on Web3 projects
 - 🤔 I’m looking for help with Unity/C#
