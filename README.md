@@ -12,10 +12,10 @@
   
 ### Hi there 👋
 
-- 🔭 I’m currently working on WebXR
+- 🔭 I’m currently working on Web3 consumer apps
 - 🌱 I’m currently learning Web AR development
 - 👯 I’m looking to collaborate on Web3 projects
-- 🤔 I’m looking for help with Unity/C#
+- 🤔 I’m looking for help with Rust
 - 💬 Ask me about Blockchain Frontend Development
 - 📫 How to reach me: [DM me on Twitter](https://twitter.com/iyushjain)
 - 😄 Pronouns: He/Him
