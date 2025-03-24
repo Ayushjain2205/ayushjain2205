@@ -30,7 +30,7 @@
 
 ---
 
-### Hackathon winning projects
+### Top winning projects
 
   <details>
     <summary>🏆 <b> Maya </b> - Your AI companion for personal growth</summary>
@@ -97,7 +97,7 @@
  <img alt="Odyssey" width="650" height="350" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/199/705/datas/gallery.jpg">
   </details>
 
-### More Hackathon Projects
+### Other winning projects
 
  <details>
     <summary><b> NPC.ai </b> - Autonomous AI agents with their own wallets</summary>
