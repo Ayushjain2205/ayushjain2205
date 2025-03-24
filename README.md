@@ -82,5 +82,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayushjain2205)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayushjain2205)
-  
+
+![Ayush's github trophy](https://github-profile-trophy.vercel.app/?username=Ayushjain2205&row=1)
 
