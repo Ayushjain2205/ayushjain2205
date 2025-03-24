@@ -7,16 +7,17 @@
  <a href="https://www.iyushjain.com/"><img src="https://img.shields.io/badge/PortfolioWebsite-green?style=for-the-badge&logo=PortfolioWebsite" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
   
-### Hi there 👋
+### About me 👨🏻‍💻
 
-- 🔭 I’m currently working on Web3 consumer apps
-- 🌱 I’m currently learning Web AR development
-- 👯 I’m looking to collaborate on Web3 projects
-- 🤔 I’m looking for help with Rust
-- 💬 Ask me about Blockchain Frontend Development
-- 📫 How to reach me: [DM me on Twitter](https://twitter.com/iyushjain)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My chrome dino game highscore is 2533!
+- 🖥️ **Full-Stack Hacker**: Building the future of tech with code.  
+- 💻 **Master of Many**: Web dev, mobile apps, browser extensions, AI systems, and blockchain.  
+- 🛤️ **Lifelong Coder**: Wrote the first line of code at age 8, never stopped evolving.  
+- 🔥 **Hackathon Veteran**: Conquered **50+ hackathons** and earned **$135k+ in prizes**.  
+- ⚡ **Tech Explorer**: Early adopter of AI and blockchain, pushing boundaries from day one.  
+- 🔧 **Builder of Everything**: From smart contracts to autonomous AI agents.  
+- 🌐 **Future-Driven**: Creating consumer apps for the AI-powered future.  
+- 🤖 **Autonomous AI Enthusiast**: Developing systems that will reshape the internet.  
+- 🔥 **Status**: Hacking the matrix 🚀
 
 #### Technical skills
 
