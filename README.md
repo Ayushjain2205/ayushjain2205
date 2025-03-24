@@ -33,46 +33,277 @@
 ### Hackathon winning projects
 
   <details>
-    <summary>🏆 <b> Orden </b> - NFT Marketplace</summary>
+    <summary>🏆 <b> Maya </b> - Your AI companion for personal growth</summary>
   <br>
-    NFTs are a revolution in the digital creative space and it's only going to be on an upward trajectory. While makers and creators like this need to make this space look exciting and accessible to anyone and everyone. This is where ORDEN comes in. An NFT Platform for creators to create, mint, and sell their skills. <br> <br>
-    <a target="_blank" href="https://youtu.be/C_6aPlvC13c"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank" href="https://devpost.com/software/orden"><img src="https://badges.devpost-shields.com/get-badge?name=ORDEN&id=orden&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    Your AI companion that makes personal growth an adventure! Level up, earn rewards 🎯, unlock abilities ⚡, and get emotional & practical support along the way! 🚀 <br> <br>
+    <a target="_blank" href="https://www.youtube.com/watch?v=SWnSPr-oNWM"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://devfolio.co/projects/maya-9b96"><img src="https://badges.devpost-shields.com/get-badge?name=Maya&id=maya&type=small-logo-left-text-full&style=for-the-badge" /></a>
     <br> <br>
- <img alt="Orden" width="650" height="350" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/614/568/datas/gallery.jpg">
+ <img alt="Maya" width="650" height="350" src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Ff8ebb5924ab74123bbd7088731ca9ab8%2Fprojects%2F1a1981ceef4344fd863be7e780e5d772%2F13ed9ee0-f765-482d-ba35-e7ee1240e39e.png&w=1440&q=75">
   </details>
 
  <details>
-    <summary>🏆 <b> Cryft </b> - Loyalty Programs for web3</summary>
+    <summary>🏆 <b> Agents Only </b> - The first autonomous playground for Web3 AI agents</summary>
   <br>
-   Cryft aims to change the way loyalty and referral programs work for the better, for both, brands and users. Cryft is a platform-agnostic app made using React Native. <br> <br>
-   <a target="_blank" href="https://youtu.be/WnDktjKOUbU"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank" href="https://devpost.com/software/cryft"><img src="https://badges.devpost-shields.com/get-badge?name=CRYFT&id=cryft&type=small-logo-left-text-full&style=for-the-badge" /></a>
+   Where AI agents roam free: The first autonomous playground for Web3 AI agents to connect, collaborate, and create - no humans allowed in the sandbox. <br> <br>
+   <a target="_blank" href="https://www.youtube.com/watch?v=esbmC96MMGA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://devfolio.co/projects/agents-only-9449"><img src="https://badges.devpost-shields.com/get-badge?name=Agents+Only&id=agents-only&type=small-logo-left-text-full&style=for-the-badge" /></a>
     <br> <br>
    
- <img alt="Orden" width="650" height="350" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/755/256/datas/gallery.jpg">
+ <img alt="Agents Only" width="650" height="350" src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2Fd64ead180bfc42bda8cee408f6d39b80%2Fprojects%2F1a1981ceef4344fd863be7e780e5d772%2F727d7e28-459c-4a7f-b69d-40f4e99bbe07.png&w=1440&q=75">
   </details>
   
    <details>
-    <summary>🏆 <b> Apex </b> -  Augmented NFT experience </summary>
+    <summary>🏆 <b> Rozi </b> - Empowering India's Gig and Unorganized Workers</summary>
   <br>
-   Pokemon Go for NFTS. Find the rarest Nfts like you find the rarest Pokemons. Gateway into the metaverse becomes easy and efficient. React native for developing a cross-platform mobile app. ViroReact to render 3D objects on the camera view.
+   Empowering India's Gig and Unorganized Workers with Daily Earnings and Long-Term Security. Solving challenges of inconsistent income, lack of benefits, and financial exclusion.
  <br> <br>
- <a target="_blank" href="https://youtu.be/mkR6J0rYQjM"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank" href="https://devfolio.co/submissions/apex-nft-experience-in-ar-9236"><img src="https://badges.devpost-shields.com/get-badge?name=APEX&id=apex&type=small-logo-left-text-full&style=for-the-badge" /></a>
+ <a target="_blank" href="https://www.youtube.com/watch?v=bBobl2_aijY"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://devfolio.co/projects/rozi-730f"><img src="https://badges.devpost-shields.com/get-badge?name=Rozi&id=rozi&type=small-logo-left-text-full&style=for-the-badge" /></a>
     <br> <br>
- <img alt="Orden" width="450" height="850" src="https://assets.devfolio.co/hackathons/1753c2d8947344019fd07fd5259b9fd1/projects/99127df9feec46599dc876cb425c5ce8/17147c9f-8d1c-4b32-bfd2-c28093dfcf2c.png">
+ <img alt="Rozi" width="650" height="350" src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F8b6f3a95cc864974be1aa571c378cd5b%2Fprojects%2F1a1981ceef4344fd863be7e780e5d772%2F009d804a-8b8e-4620-830a-28a5eac9867e.png&w=1440&q=75">
   </details>
 
  <details>
-    <summary>🏆 <b> NFTickets </b> </summary>
+    <summary>🏆 <b> SageSpace </b> - AI agents on Telegram built on BNB Chain</summary>
   <br>
-   A dapp where tickets are sold as NFTs. They are exclusive. Any and all types of events can be listed. Users earn royalties through referrals.
+   SageSpace is a platform that brings AI agents to Telegram, making them useful and action-oriented. Built on the BNB Chain, it allows users to create AI agents that help with trading, learning, and other tasks. SageSpace features a no-code builder, a $SAGE token for ownership, and memory systems for personalized interactions.
  <br> <br>
- <a target="_blank" href="[https://youtu.be/mkR6J0rYQjM](https://showcase.ethglobal.com/roadtoweb3/nftickets)"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a target="_blank" href="[https://devfolio.co/submissions/apex-nft-experience-in-ar-9236](https://showcase.ethglobal.com/roadtoweb3/nftickets)"><img src="https://badges.devpost-shields.com/get-badge?name=APEX&id=apex&type=small-logo-left-text-full&style=for-the-badge" /></a>
+ <a target="_blank" href="https://www.youtube.com/watch?v=ZxN780iuuTk"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://dorahacks.io/buidl/21153n"><img src="https://badges.devpost-shields.com/get-badge?name=SageSpace&id=sagespace&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="SageSpace" width="650" height="350" src="https://cdn.dorahacks.io/static/files/194228a978b161f00f5262b499b9f6e8.png@128h.webp">
+  </details>
+
+ <details>
+    <summary>🏆 <b> GeoNFT </b> - Location-based NFT collection game</summary>
+  <br>
+   GeoNFT is a fun blockchain-based game where users collect location-based NFTs by exploring real-world places using clues, like a treasure hunt. These NFTs can be viewed in AR, adding a metaverse-like touch. Brands and creators can use GeoNFT for promotions, driving people to events, stores, or exhibitions.
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=7ctJsAxen0M"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://ethglobal.com/showcase/geonft-qtsnj"><img src="https://badges.devpost-shields.com/get-badge?name=GeoNFT&id=geonft&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="GeoNFT" width="650" height="350" src="https://ethglobal.b-cdn.net/projects/qtsnj/screenshots/0i1pj/default.jpg">
+  </details>
+
+ <details>
+    <summary>🏆 <b> Odyssey </b> - Build AI apps faster</summary>
+  <br>
+   Build AI apps faster, and break things less. The hacker's toolbox for rapid AI development.
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=Iyq2WhR_uUA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://devpost.com/software/aiforge-mnk0ga"><img src="https://badges.devpost-shields.com/get-badge?name=Odyssey&id=odyssey&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="Odyssey" width="650" height="350" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/199/705/datas/gallery.jpg">
+  </details>
+
+### More Hackathon Projects
+
+ <details>
+    <summary><b> NPC.ai </b> - Autonomous AI agents with their own wallets</summary>
+  <br>
+   NPC.ai is a playground where users create autonomous AI agents with their own wallets and personalities. These NPCs independently trade tokens, mint NFTs, and interact with other agents. Users can even breed NPCs to create hybrid agents with shared value generation.
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=eb3RvB5pMT4"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://ethglobal.com/showcase/npc-ai-8y46c"><img src="https://badges.devpost-shields.com/get-badge?name=NPC.ai&id=npc-ai&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="NPC.ai" width="650" height="350" src="https://ethglobal.b-cdn.net/projects/8y46c/screenshots/zs1e7/default.jpg">
+  </details>
+
+ <details>
+    <summary><b> Swarm.ai </b> - Protocol for secure AI Agents</summary>
+  <br>
+   All in one protocol for secure AI Agents, from creating workflows to using them seamlessly.
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=-YtpZVljDrQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://devpost.com/software/swarm-ai-lk2dcn"><img src="https://badges.devpost-shields.com/get-badge?name=Swarm.ai&id=swarm-ai&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="Swarm.ai" width="650" height="350" src="https://devfolio.co/_next/image?url=https%3A%2F%2Fassets.devfolio.co%2Fhackathons%2F2c9439e7aa194719bf6586341af2dd80%2Fprojects%2F1a1981ceef4344fd863be7e780e5d772%2F5bbbbd4e-6c41-4de0-8312-c26b49b24d17.jpeg&w=1440&q=75">
+  </details>
+
+ <details>
+    <summary><b> BNBgram </b> - Telegram-integrated wallet for Binance chain</summary>
+  <br>
+   BNBgram is a Telegram-integrated wallet for the Binance chain, offering gasless transactions and simple onboarding. Users can create wallets instantly, trade crypto, and interact with DApps directly in Telegram without needing external apps. Features include deep links for quick actions, credit card crypto purchases, and support for meme coins and NFTs.
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=NVtI-Bzhulc"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://dorahacks.io/buidl/21153n"><img src="https://badges.devpost-shields.com/get-badge?name=BNBgram&id=bnbgram&type=small-logo-left-text-full&style=for-the-badge" /></a>
     <br> <br>
   </details>
+
+ <details>
+    <summary><b> Circadia </b> - AI-powered wellness with blockchain rewards</summary>
+  <br>
+   AI-powered wellness meets blockchain rewards, helping you sync with your rhythm and stay healthy.
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=vukAsN6j_Lw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://devpost.com/software/circadia-tr3a5m"><img src="https://badges.devpost-shields.com/get-badge?name=Circadia&id=circadia&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="Circadia" width="650" height="350" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/110/153/datas/gallery.jpg">
+  </details>
+
+ <details>
+    <summary><b> Betomo </b> - AI-powered sports prediction markets</summary>
+  <br>
+   AI-powered sports prediction markets in your pocket. Make micro-bets from $1-$10 on live events, create custom markets, and join a community of smart bettors. Our AI generates relevant events and provides intelligent insights. Small stakes, big thrills!
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=fHvRllfxlRI"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://ethglobal.com/showcase/betomo-br5e1"><img src="https://badges.devpost-shields.com/get-badge?name=Betomo&id=betomo&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="Betomo" width="650" height="350" src="https://ethglobal.b-cdn.net/projects/br5e1/screenshots/xe6yb/default.jpg">
+  </details>
+
+ <details>
+    <summary><b> Universal Welfare Protocol </b> - Transparent government benefits</summary>
+  <br>
+   Enabling transparent utilsation of goverment schemes and benefits.
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/sTHK_LMRO0Y"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://ethglobal.com/showcase/uniwel-protocol-5yv6c"><img src="https://badges.devpost-shields.com/get-badge?name=Universal+Welfare+Protocol&id=universal-welfare-protocol&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="Universal Welfare Protocol" width="650" height="350" src="https://ethglobal.b-cdn.net/projects/5yv6c/screenshots/55dxq/default.jpg">
+  </details>
+
+ <details>
+    <summary><b> Ally.ai </b> - SAAS tool for Web3 ecosystem AI agents</summary>
+  <br>
+   ally is a SAAS tool that creates an AI agent for your Web3 ecosystem
+ <br> <br>
+ <a target="_blank" href="https://youtube.com/watch?v=hP6T6eJaGr0"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://ethglobal.com/showcase/ally-ai-wtmr8"><img src="https://badges.devpost-shields.com/get-badge?name=Ally.ai&id=ally-ai&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="Ally.ai" width="650" height="350" src="https://ethglobal.b-cdn.net/projects/wtmr8/screenshots/bk7b1/default.jpg">
+  </details>
+
+ <details>
+    <summary><b> Botswald </b> - Platform for chatbot creation and monetization</summary>
+  <br>
+   Botswald is a platform where users can create, personalize, and monetize chatbots with ease. It lets users build bots from scratch or customize existing ones by editing their knowledge base and offers multiple ways to sell them, such as web interfaces, Chrome extensions, or APIs. Transactions are powered by B-coins on the Fantom blockchain, ensuring secure and transparent exchanges.
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=GkBWctHnLSI"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://devpost.com/software/botswald"><img src="https://badges.devpost-shields.com/get-badge?name=Botswald&id=botswald&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="Botswald" width="650" height="350" src="https://ethglobal.b-cdn.net/projects/1waoy/screenshots/mg0sa/default.jpg">
+  </details>
+
+ <details>
+    <summary><b> Eigen </b> - Platform for creating Data DAOs for AI models</summary>
+  <br>
+   Eigen is a platform that helps create Data DAOs focused on training AI models. It allows volunteers to contribute data, earn rewards, and even get a share of the royalties when the models are used. Built on the Filecoin network, Eigen ensures secure storage and incentivizes storage providers.
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=M07SdATULPE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://ethglobal.com/showcase/eigen-zsdsf"><img src="https://badges.devpost-shields.com/get-badge?name=Eigen&id=eigen&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="Eigen" width="650" height="350" src="https://ethglobal.b-cdn.net/projects/zsdsf/screenshots/9gwt6/default.jpg">
+  </details>
+
+ <details>
+    <summary><b> AI-Forge </b> - Toolbox for rapid AI development</summary>
+  <br>
+   Build AI apps faster, and break things less. The hacker's toolbox for rapid AI development
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=Iyq2WhR_uUA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://devpost.com/software/aiforge-mnk0ga"><img src="https://badges.devpost-shields.com/get-badge?name=AI-Forge&id=aiforge&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="AI-Forge" width="650" height="350" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/199/705/datas/gallery.jpg">
+  </details>
+
+ <details>
+    <summary><b> stamps! </b> - Unified passport of brand stamps collected at locations</summary>
+  <br>
+   A unified passport of stamps! from your beloved brands collected at unique locations. stamps! is a unique marketing tool transformed into an engaging game. Brands can place their utility NFTs, which we call stamps, at various geolocations worldwide.
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=CUvGHVU0ghQo"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://devpost.com/software/stamps"><img src="https://badges.devpost-shields.com/get-badge?name=stamps!&id=stamps&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="stamps!" width="650" height="350" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/505/755/datas/gallery.jpg">
+  </details>
+
+ <details>
+    <summary><b> AI-Social </b> - Digital hangouts with AI creativity</summary>
+  <br>
+   Imagine a world where your digital hangouts are not just about scrolling endlessly but creating, sharing, and vibing together. That's the dream that sparked AI-Social! A place where AI meets creativity, and together, they dance to the rhythm of innovation. 🕺🤖
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=mMnXd7qvA7w"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://dorahacks.io/buidl/10606"><img src="https://badges.devpost-shields.com/get-badge?name=AI-Social&id=ai-social&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="AI-Social" width="650" height="350" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/884/523/datas/gallery.jpg">
+  </details>
+
+ <details>
+    <summary><b> Botcoin </b> - AI-driven crypto trading bot</summary>
+  <br>
+   Your AI-driven crypto trading bot that simplifies investments and tailors them to your goals, directly via Telegram
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=xSnYd28P_eo"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://devpost.com/software/botcoin"><img src="https://badges.devpost-shields.com/get-badge?name=Botcoin&id=botcoin&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="Botcoin" width="650" height="350" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/696/145/datas/gallery.jpg">
+  </details>
+
+ <details>
+    <summary><b> Noesis </b> - AI-driven crypto trading via Telegram</summary>
+  <br>
+   Your AI-driven crypto trading bot that simplifies investments and tailors them to your goals, directly via Telegram
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=JQqTuSxbCig"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://devpost.com/software/noesis-ra1ieu"><img src="https://badges.devpost-shields.com/get-badge?name=Noesis&id=noesis&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="Noesis" width="650" height="350" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/884/512/datas/gallery.jpg">
+  </details>
+
+ <details>
+    <summary><b> Entropay </b> - Payment super-app with rewards</summary>
+  <br>
+   The ultimate payment super-app! Earn rewards for every transaction, enjoy 'Buy Now Pay Later' options, customizable payment widgets for businesses, QR code payments, and daily incentives. Transform your spending into earning with Entropay!
+ <br> <br>
+    <a target="_blank" href="https://ethglobal.com/showcase/entropay-cc8o9"><img src="https://badges.devpost-shields.com/get-badge?name=Entropay&id=entropay&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="Entropay" width="650" height="350" src="https://ethglobal.b-cdn.net/projects/cc8o9/screenshots/if9hz/default.jpg">
+  </details>
+
+ <details>
+    <summary><b> People Protocol </b> - Transforming Service in India</summary>
+  <br>
+   People Protocol: Transforming Service in India!
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=diWB3BN6HOk"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://ethglobal.com/showcase/people-protocol-gavwm"><img src="https://badges.devpost-shields.com/get-badge?name=People+Protocol&id=people-protocol&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="People Protocol" width="650" height="350" src="https://ethglobal.b-cdn.net/projects/gavwm/screenshots/pm6oc/default.jpg">
+  </details>
+
+ <details>
+    <summary><b> Entropic </b> - Utility NFT platform</summary>
+  <br>
+   Utility NFT platform enabling crypto collectibles to become actionable. NFTs can be combined and linked to utilities like tickets, coupons, giveaways and much more.
+ <br> <br>
+    <a target="_blank" href="https://ethglobal.com/showcase/entropic-ft4ej"><img src="https://badges.devpost-shields.com/get-badge?name=Entropic&id=entropic&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="Entropic" width="650" height="350" src="https://ethglobal.b-cdn.net/projects/ft4ej/screenshots/ef9j5/default.jpg">
+  </details>
+
+ <details>
+    <summary><b> Cryft </b> - Reimagining loyalty and referral programs</summary>
+  <br>
+   Cryft aims to change the way loyalty and referral programs work for the better, for both, brands and users
+ <br> <br>
+ <a target="_blank" href="https://www.youtube.com/watch?v=WnDktjKOUbU"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://devpost.com/software/cryft"><img src="https://badges.devpost-shields.com/get-badge?name=Cryft&id=cryft&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="Cryft" width="650" height="350" src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/755/256/datas/gallery.jpg">
+  </details>
+
+ <details>
+    <summary><b> FOSS DAO </b> - Ecosystem for open source projects</summary>
+  <br>
+   FossDAO lets Open source organizations build a very scalable and maintainable ecosystem for their projects. Users are incentivized to make contributions, they are rewarded with tokens for successful contributions. They are also given custom contribution NFTs thereby building a strong contribution profile that they can share.
+ <br> <br>
+    <a target="_blank" href="https://ethglobal.com/showcase/fossdao-0a52o"><img src="https://badges.devpost-shields.com/get-badge?name=FOSS+DAO&id=foss-dao&type=small-logo-left-text-full&style=for-the-badge" /></a>
+    <br> <br>
+ <img alt="FOSS DAO" width="650" height="350" src="https://ethglobal.b-cdn.net/projects/0a52o/screenshots/0q2mn/default.jpg">
+  </details>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ayushjain2205)
 
